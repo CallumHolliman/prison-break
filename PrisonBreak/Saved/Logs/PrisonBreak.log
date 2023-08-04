@@ -2790,3 +2790,1348 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.08.03-04.29.12:417][264]AssetCheck: New page: Asset Save: multiple assets
 [2023.08.03-04.29.12:417][264]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PrisonBreak_BuiltData.PrisonBreak_BuiltData
 [2023.08.03-04.29.12:417][264]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
+[2023.08.03-04.31.18:449][217]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2023.08.03-04.31.30:443][491]Cmd: TRANSACTION UNDO
+[2023.08.03-04.31.30:443][491]LogEditorTransaction: Undo Scale Actors
+[2023.08.03-04.31.30:976][509]Cmd: TRANSACTION UNDO
+[2023.08.03-04.31.30:976][509]LogEditorTransaction: Undo Scale Actors
+[2023.08.03-04.31.40:610][514]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2023.08.03-04.33.11:091][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.03-04.33.11:132][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.08.03-04.33.11:381][310]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak4B2559EA495AB86FD586BFB3C10C0995.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap'
+[2023.08.03-04.33.11:408][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak_BuiltData" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset" SILENT=true
+[2023.08.03-04.33.11:644][310]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak_BuiltDataB50C8F5F491E6959941B46AA3F15DCCA.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset'
+[2023.08.03-04.33.11:662][310]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.03-04.33.11:662][310]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PrisonBreak_BuiltData.PrisonBreak_BuiltData
+[2023.08.03-04.33.11:662][310]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
+[2023.08.03-04.33.17:665][  7]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.03-04.33.17:675][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.03-04.33.17:675][  7]PIE: New page: PIE session: PrisonBreak (3 Aug 2023, 06:33:17)
+[2023.08.03-04.33.17:675][  7]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.03-04.33.17:750][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074536s)
+[2023.08.03-04.33.17:751][  7]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.03-04.33.17:751][  7]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2023.08.03-04.33.17:751][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.075736s)
+[2023.08.03-04.33.17:781][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.08.03-04.33.17:784][  7]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.08.03-04.33.17:784][  7]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.03-04.33.17:784][  7]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.03-04.33.17:784][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.03-04.33.17:784][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.03-04.33.17:784][  7]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.03-04.33.17:784][  7]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.03-04.33.17:784][  7]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.03-04.33.17:784][  7]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.03-04.33.17:784][  7]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.03-04.33.17:784][  7]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.03-04.33.17:789][  7]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.03-04.33.17:789][  7]LogAudioMixer: Display: 1: FrontRight
+[2023.08.03-04.33.17:795][  7]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.03-04.33.17:796][  7]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.03-04.33.17:796][  7]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.03-04.33.17:796][  7]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.03-04.33.17:796][  7]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.03-04.33.17:796][  7]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.03-04.33.17:796][  7]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.03-04.33.17:808][  7]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.03-04.33.17:808][  7]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.03-04.33.17:808][  7]LogInit: FAudioDevice initialized.
+[2023.08.03-04.33.17:808][  7]LogAudio: Display: Audio Device (ID: 9) registered with world 'PrisonBreak'.
+[2023.08.03-04.33.17:817][  7]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.03-04.33.17:822][  7]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.03-05.33.17
+[2023.08.03-04.33.17:823][  7]LogWorld: Bringing up level for play took: 0.004864
+[2023.08.03-04.33.17:823][  7]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2023.08.03-04.33.17:827][  7]PIE: Server logged in
+[2023.08.03-04.33.17:828][  7]PIE: Play in editor total start time 0.157 seconds.
+[2023.08.03-04.33.50:236][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.03-04.33.50:236][873]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.03-04.33.50:236][873]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-04.33.50:237][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-04.33.50:245][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.03-04.33.50:260][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-04.33.50:288][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.03-04.33.50:288][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.03-04.33.50:289][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.03-04.33.50:310][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.08.03-04.33.50:346][874]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.08.03-05.20.45:518][427]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.03-05.20.45:527][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.03-05.20.45:528][427]PIE: New page: PIE session: PrisonBreak (3 Aug 2023, 07:20:45)
+[2023.08.03-05.20.45:528][427]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.03-05.20.45:608][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080526s)
+[2023.08.03-05.20.45:609][427]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.03-05.20.45:610][427]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2023.08.03-05.20.45:610][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.081989s)
+[2023.08.03-05.20.45:651][427]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2023.08.03-05.20.45:656][427]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.08.03-05.20.45:656][427]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.03-05.20.45:656][427]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.03-05.20.45:656][427]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.03-05.20.45:656][427]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.03-05.20.45:656][427]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.03-05.20.45:656][427]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.03-05.20.45:656][427]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.03-05.20.45:656][427]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.03-05.20.45:657][427]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.03-05.20.45:657][427]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.03-05.20.45:662][427]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.03-05.20.45:662][427]LogAudioMixer: Display: 1: FrontRight
+[2023.08.03-05.20.45:668][427]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.03-05.20.45:669][427]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.03-05.20.45:669][427]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.03-05.20.45:669][427]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.03-05.20.45:669][427]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.03-05.20.45:669][427]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.03-05.20.45:669][427]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.03-05.20.45:682][427]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.03-05.20.45:682][427]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.03-05.20.45:682][427]LogInit: FAudioDevice initialized.
+[2023.08.03-05.20.45:682][427]LogAudio: Display: Audio Device (ID: 10) registered with world 'PrisonBreak'.
+[2023.08.03-05.20.45:693][427]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.03-05.20.45:698][427]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.03-06.20.45
+[2023.08.03-05.20.45:698][427]LogWorld: Bringing up level for play took: 0.004963
+[2023.08.03-05.20.45:699][427]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2023.08.03-05.20.45:702][427]PIE: Server logged in
+[2023.08.03-05.20.45:703][427]PIE: Play in editor total start time 0.179 seconds.
+[2023.08.03-05.21.15:336][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.03-05.21.15:336][963]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.03-05.21.15:337][963]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-05.21.15:337][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-05.21.15:346][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.03-05.21.15:363][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-05.21.15:392][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.03-05.21.15:394][963]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.03-05.21.15:394][963]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.03-05.21.15:412][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.08.03-05.21.15:450][964]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.08.03-05.22.17:462][801]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.03-05.22.17:471][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.03-05.22.17:471][801]PIE: New page: PIE session: PrisonBreak (3 Aug 2023, 07:22:17)
+[2023.08.03-05.22.17:493][801]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.03-05.22.17:569][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075628s)
+[2023.08.03-05.22.17:570][801]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.03-05.22.17:570][801]LogPlayLevel: PIE: World Init took: (0.001344s)
+[2023.08.03-05.22.17:570][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.077181s)
+[2023.08.03-05.22.17:601][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.08.03-05.22.17:605][801]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.08.03-05.22.17:605][801]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.03-05.22.17:605][801]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.03-05.22.17:605][801]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.03-05.22.17:605][801]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.03-05.22.17:605][801]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.03-05.22.17:605][801]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.03-05.22.17:605][801]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.03-05.22.17:605][801]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.03-05.22.17:605][801]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.03-05.22.17:605][801]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.03-05.22.17:610][801]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.03-05.22.17:610][801]LogAudioMixer: Display: 1: FrontRight
+[2023.08.03-05.22.17:616][801]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.03-05.22.17:617][801]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.03-05.22.17:617][801]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.03-05.22.17:617][801]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.03-05.22.17:617][801]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.03-05.22.17:617][801]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.03-05.22.17:617][801]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.03-05.22.17:631][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.03-05.22.17:631][801]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.03-05.22.17:631][801]LogInit: FAudioDevice initialized.
+[2023.08.03-05.22.17:631][801]LogAudio: Display: Audio Device (ID: 11) registered with world 'PrisonBreak'.
+[2023.08.03-05.22.17:642][801]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.03-05.22.17:647][801]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.03-06.22.17
+[2023.08.03-05.22.17:648][801]LogWorld: Bringing up level for play took: 0.005544
+[2023.08.03-05.22.17:648][801]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2023.08.03-05.22.17:652][801]PIE: Server logged in
+[2023.08.03-05.22.17:654][801]PIE: Play in editor total start time 0.186 seconds.
+[2023.08.03-05.22.45:146][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.03-05.22.45:146][ 85]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.03-05.22.45:147][ 85]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-05.22.45:147][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-05.22.45:154][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.03-05.22.45:172][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-05.22.45:200][ 85]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.03-05.22.45:202][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.03-05.22.45:203][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.03-05.22.45:215][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.03-05.22.45:223][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.08.03-05.22.45:262][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.08.03-05.23.27:942][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.03-05.23.27:975][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.08.03-05.23.28:221][913]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak25BAC95E4753DD4B794C11ADEE4389EB.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap'
+[2023.08.03-05.23.28:247][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak_BuiltData" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset" SILENT=true
+[2023.08.03-05.23.28:488][913]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak_BuiltDataA8C1FA7B4ED9BE272E716E889DA3B776.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset'
+[2023.08.03-05.23.28:507][913]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.03-05.23.28:507][913]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PrisonBreak_BuiltData.PrisonBreak_BuiltData
+[2023.08.03-05.23.28:507][913]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
+[2023.08.03-05.24.12:034][408]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.08.03-05.28.54:064][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.03-05.28.54:099][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2023.08.03-05.28.54:345][ 73]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak330A2EAF4F2080D6D315749D07281C2D.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap'
+[2023.08.03-05.28.54:364][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak_BuiltData" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset" SILENT=true
+[2023.08.03-05.28.54:601][ 73]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak_BuiltDataD2DC5CDB44536FCE3253DFBBA890E7C0.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset'
+[2023.08.03-05.28.54:618][ 73]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.03-05.28.54:618][ 73]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PrisonBreak_BuiltData.PrisonBreak_BuiltData
+[2023.08.03-05.28.54:618][ 73]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
+[2023.08.03-05.38.54:279][781]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.08.03-05.38.54:285][781]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/PrisonBreak' took 0.037
+[2023.08.03-05.38.54:285][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI_Enemy] ([1] browsable assets)...
+[2023.08.03-05.38.54:285][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI_Enemy]
+[2023.08.03-05.38.54:285][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI_Enemy" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Saved/Autosaves/Game/Enemies/AI_Enemy_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.08.03-05.38.54:292][781]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/AI_Enemy_Auto7C9DA140946FA5970714FF9945E440CDF.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/Autosaves/Game/Enemies/AI_Enemy_Auto7.uasset'
+[2023.08.03-05.38.54:294][781]LogFileHelpers: Auto-saving content packages took 0.009
+[2023.08.03-05.45.28:719][777]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../largedoor.fbx)
+[2023.08.03-05.45.28:746][777]LogFbx: Loading FBX Scene from ../../../../largedoor.fbx
+[2023.08.03-05.45.28:755][777]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.03-05.45.31:111][777]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.08.03-05.45.31:133][777]LogFbx: Display: Triangulating static mesh Cube
+[2023.08.03-05.45.31:159][777]LogStaticMesh: Building static mesh largedoor...
+[2023.08.03-05.45.31:177][777]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/largedoor.largedoor
+[2023.08.03-05.45.31:180][777]LogStaticMesh: Warning: largedoor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.08.03-05.45.31:180][777]LogStaticMesh: Warning: largedoor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.08.03-05.45.31:192][777]FBXImport: Warning: largedoor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.08.03-05.45.31:192][777]FBXImport: Warning: largedoor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.08.03-05.45.39:357][720]LogSlate: Window 'Message Log' being destroyed
+[2023.08.03-05.45.39:364][720]LogSlate: Window 'Message Log' being destroyed
+[2023.08.03-05.45.47:831][ 92]LogActorFactory: Actor Factory created largedoor
+[2023.08.03-05.45.48:767][168]LogActorFactory: Actor Factory created largedoor
+[2023.08.03-05.46.10:937][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (largedoor)
+[2023.08.03-05.46.52:610][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.03-05.46.52:640][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.08.03-05.46.52:880][995]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak53A207DE4A7C8A76A744639C5A044E86.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap'
+[2023.08.03-05.46.52:898][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak_BuiltData" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset" SILENT=true
+[2023.08.03-05.46.53:135][995]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak_BuiltData38E1F7EF463CCFDFA5E397BCF583DD9F.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset'
+[2023.08.03-05.46.53:153][995]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.03-05.46.53:153][995]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PrisonBreak_BuiltData.PrisonBreak_BuiltData
+[2023.08.03-05.46.53:153][995]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
+[2023.08.03-05.53.19:327][265]BlueprintLog: New page: Compile AI_Enemy
+[2023.08.03-05.53.19:372][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2023.08.03-05.53.20:212][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI_Enemy" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/AI_Enemy.uasset" SILENT=true
+[2023.08.03-05.53.20:218][358]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/AI_Enemy43B3830444CFDC29EBFCA68764C6DA55.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/AI_Enemy.uasset'
+[2023.08.03-05.53.20:235][358]AssetCheck: New page: Asset Save: AI_Enemy
+[2023.08.03-05.53.20:235][358]LogContentValidation: Display: Validating Blueprint /Game/Enemies/AI_Enemy.AI_Enemy
+[2023.08.03-05.53.30:347][464]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_Key.BP_Key
+[2023.08.03-05.54.13:052][299]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.08.03-05.54.14:238][299]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.08.03-05.54.14:247][299]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.08.03-05.54.14:273][299]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.08.03-05.54.22:902][221]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Button
+[2023.08.03-05.54.22:906][221]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/BluePrints/BP_Button.
+[2023.08.03-05.54.22:907][221]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.08.03-05.54.25:289][460]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_Button.BP_Button
+[2023.08.03-05.54.53:281][540]LogEditorTransaction: Undo Modify Component Scale
+[2023.08.03-05.55.18:205][316]BlueprintLog: New page: Compile BP_Button
+[2023.08.03-05.55.18:259][316]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2023.08.03-05.55.55:421][611]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BPI_Door.BPI_Door
+[2023.08.03-05.56.24:495][906]BlueprintLog: New page: Compile BPI_Door
+[2023.08.03-05.56.24:559][906]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2023.08.03-05.56.25:676][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BPI_Door" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BPI_Door.uasset" SILENT=true
+[2023.08.03-05.56.25:678][ 34]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BPI_DoorD75DAD2649D5D9D9F37B8C823F10A246.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BPI_Door.uasset'
+[2023.08.03-05.56.25:694][ 34]AssetCheck: New page: Asset Save: BPI_Door
+[2023.08.03-05.56.25:694][ 34]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BPI_Door.BPI_Door
+[2023.08.03-05.56.30:945][653]BlueprintLog: New page: Compile BP_Key
+[2023.08.03-05.56.31:002][653]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2023.08.03-05.56.32:084][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Key" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Key.uasset" SILENT=true
+[2023.08.03-05.56.32:098][777]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_Key9A5C24D7464F39F24E3EBEB9F6F50D9C.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Key.uasset'
+[2023.08.03-05.56.32:111][777]AssetCheck: New page: Asset Save: BP_Key
+[2023.08.03-05.56.32:111][777]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Key.BP_Key
+[2023.08.03-05.56.33:828][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Button" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Button.uasset" SILENT=true
+[2023.08.03-05.56.33:839][965]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_Button355AC2794A5FE32B7AA12E9C10F46312.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Button.uasset'
+[2023.08.03-05.56.33:850][965]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/BluePrints/BP_Button.
+[2023.08.03-05.56.33:856][965]AssetCheck: New page: Asset Save: BP_Button
+[2023.08.03-05.56.33:856][965]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Button.BP_Button
+[2023.08.03-05.57.32:591][907]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2023.08.03-05.57.32:829][907]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak_Auto85732BB974CE7620A9D0CFB80C5B35DE6.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/Autosaves/Game/Maps/PrisonBreak_Auto8.umap'
+[2023.08.03-05.57.32:831][907]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/PrisonBreak' took 0.277
+[2023.08.03-05.57.32:831][907]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.277
+[2023.08.03-05.57.32:832][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/largedoor] ([1] browsable assets)...
+[2023.08.03-05.57.32:840][907]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/largedoor.largedoor]
+[2023.08.03-05.57.32:840][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/largedoor]
+[2023.08.03-05.57.32:840][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/largedoor" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Saved/Autosaves/Game/Meshes/largedoor_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2023.08.03-05.57.32:850][907]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/largedoor_Auto874A80DBF4C1BF4BB0F7891B7E7C115DF.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/Autosaves/Game/Meshes/largedoor_Auto8.uasset'
+[2023.08.03-05.57.32:852][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/BP_Button] ([1] browsable assets)...
+[2023.08.03-05.57.32:860][907]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/BP_Button.BP_Button]
+[2023.08.03-05.57.32:860][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BP_Button]
+[2023.08.03-05.57.32:860][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Button" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Saved/Autosaves/Game/BluePrints/BP_Button_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2023.08.03-05.57.32:870][907]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_Button_Auto8613B858D4323DABA805C9999AACA5DCE.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/Autosaves/Game/BluePrints/BP_Button_Auto8.uasset'
+[2023.08.03-05.57.32:871][907]LogFileHelpers: Auto-saving content packages took 0.040
+[2023.08.03-05.57.37:147][410]BlueprintLog: New page: Compile BP_Button
+[2023.08.03-05.57.37:150][410]LogBlueprint: Warning: [AssetLog] C:\Users\callu\Documents\Unreal Projects\prison-break\PrisonBreak\Content\BluePrints\BP_Button.uasset: [Compiler] Could not find a variable named "Door" in 'BP_Button_C'.
+Make sure 'BP_Button_C' has been compiled for  Get Door
+[2023.08.03-05.57.37:150][410]LogBlueprint: Error: [AssetLog] C:\Users\callu\Documents\Unreal Projects\prison-break\PrisonBreak\Content\BluePrints\BP_Button.uasset: [Compiler] The property associated with  Door  could not be found in '/Game/BluePrints/BP_Button.BP_Button_C'
+[2023.08.03-05.57.37:208][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.08.03-05.58.04:401][401]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.08.03-05.58.05:779][537]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.08.03-05.58.05:784][537]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.08.03-05.58.08:437][850]BlueprintLog: New page: Compile BP_Button
+[2023.08.03-05.58.08:492][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2023.08.03-05.58.09:409][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Button" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Button.uasset" SILENT=true
+[2023.08.03-05.58.09:419][952]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_Button832919E14F64605088B3B8A9F7EEFA72.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Button.uasset'
+[2023.08.03-05.58.09:431][952]AssetCheck: New page: Asset Save: BP_Button
+[2023.08.03-05.58.09:431][952]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Button.BP_Button
+[2023.08.03-05.58.31:803][957]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.08.03-05.58.36:816][957]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.08.03-05.58.36:825][957]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.08.03-05.58.36:839][957]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.08.03-05.58.44:989][681]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_SlidingDoor
+[2023.08.03-05.58.44:992][681]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/BluePrints/BP_SlidingDoor.
+[2023.08.03-05.58.44:994][681]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.08.03-05.58.46:418][800]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor
+[2023.08.03-05.58.51:080][254]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_Door.BP_Door
+[2023.08.03-05.58.52:928][423]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-05.58.52:928][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-05.59.06:552][991]LogEditorTransaction: Undo Paste clipboard contents
+[2023.08.03-06.01.28:671][796]BlueprintLog: New page: Compile BP_SlidingDoor
+[2023.08.03-06.01.28:674][796]LogBlueprint: Warning: [AssetLog] /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor (no disk path found): [Compiler] Could not find a variable named "StaticMesh" in 'BP_SlidingDoor_C'.
+Make sure 'BP_SlidingDoor_C' has been compiled for  Get StaticMesh
+[2023.08.03-06.01.28:675][796]LogBlueprint: Warning: [AssetLog] /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor (no disk path found): [Compiler] Could not find a variable named "Has Key" in 'BP_SlidingDoor_C'.
+Make sure 'BP_SlidingDoor_C' has been compiled for  Get Has Key
+[2023.08.03-06.01.28:675][796]LogBlueprint: Warning: [AssetLog] /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor (no disk path found): [Compiler] Could not find a variable named "Has Key" in 'BP_SlidingDoor_C'.
+Make sure 'BP_SlidingDoor_C' has been compiled for  Set Has Key
+[2023.08.03-06.01.28:676][796]LogBlueprint: Error: [AssetLog] /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor (no disk path found): [Compiler] The property associated with  Has Key  could not be found in '/Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor_C'
+[2023.08.03-06.01.28:676][796]LogBlueprint: Error: [AssetLog] /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor (no disk path found): [Compiler] The property associated with  Has Key  could not be found in '/Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor_C'
+[2023.08.03-06.01.28:677][796]LogBlueprint: Error: [AssetLog] /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor (no disk path found): [Compiler] The property associated with  Static Mesh  could not be found in '/Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor_C'
+[2023.08.03-06.01.28:739][796]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2023.08.03-06.01.29:694][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_SlidingDoor" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset" SILENT=true
+[2023.08.03-06.01.29:704][904]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_SlidingDoorF76E514F4F2CD4889A0666826F426894.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset'
+[2023.08.03-06.01.29:714][904]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/BluePrints/BP_SlidingDoor.
+[2023.08.03-06.01.29:720][904]AssetCheck: New page: Asset Save: BP_SlidingDoor
+[2023.08.03-06.01.29:720][904]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor
+[2023.08.03-06.02.04:580][877]BlueprintLog: New page: Compile BP_SlidingDoor
+[2023.08.03-06.02.04:583][877]LogBlueprint: Warning: [AssetLog] C:\Users\callu\Documents\Unreal Projects\prison-break\PrisonBreak\Content\BluePrints\BP_SlidingDoor.uasset: [Compiler] Could not find a variable named "Has Key" in 'BP_SlidingDoor_C'.
+Make sure 'BP_SlidingDoor_C' has been compiled for  Get Has Key
+[2023.08.03-06.02.04:583][877]LogBlueprint: Warning: [AssetLog] C:\Users\callu\Documents\Unreal Projects\prison-break\PrisonBreak\Content\BluePrints\BP_SlidingDoor.uasset: [Compiler] Could not find a variable named "Has Key" in 'BP_SlidingDoor_C'.
+Make sure 'BP_SlidingDoor_C' has been compiled for  Set Has Key
+[2023.08.03-06.02.04:584][877]LogBlueprint: Error: [AssetLog] C:\Users\callu\Documents\Unreal Projects\prison-break\PrisonBreak\Content\BluePrints\BP_SlidingDoor.uasset: [Compiler] The property associated with  Has Key  could not be found in '/Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor_C'
+[2023.08.03-06.02.04:584][877]LogBlueprint: Error: [AssetLog] C:\Users\callu\Documents\Unreal Projects\prison-break\PrisonBreak\Content\BluePrints\BP_SlidingDoor.uasset: [Compiler] The property associated with  Has Key  could not be found in '/Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor_C'
+[2023.08.03-06.02.04:644][877]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2023.08.03-06.02.05:295][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_SlidingDoor" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset" SILENT=true
+[2023.08.03-06.02.05:308][944]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_SlidingDoor6F07F1544AEFD0A52F4C6EA6811985DE.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset'
+[2023.08.03-06.02.05:321][944]AssetCheck: New page: Asset Save: BP_SlidingDoor
+[2023.08.03-06.02.05:321][944]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor
+[2023.08.03-06.04.05:426][ 99]BlueprintLog: New page: Compile AI_Enemy
+[2023.08.03-06.04.05:483][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2023.08.03-06.04.05:955][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI_Enemy" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/AI_Enemy.uasset" SILENT=true
+[2023.08.03-06.04.05:965][148]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/AI_EnemyBE7E423A4835797AE10EB1AB3A371C19.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/AI_Enemy.uasset'
+[2023.08.03-06.04.05:993][148]AssetCheck: New page: Asset Save: AI_Enemy
+[2023.08.03-06.04.05:993][148]LogContentValidation: Display: Validating Blueprint /Game/Enemies/AI_Enemy.AI_Enemy
+[2023.08.03-06.10.05:137][629]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.08.03-06.11.07:816][576]BlueprintLog: New page: Compile AI_Enemy
+[2023.08.03-06.11.07:879][576]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2023.08.03-06.11.08:278][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI_Enemy" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/AI_Enemy.uasset" SILENT=true
+[2023.08.03-06.11.08:287][617]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/AI_Enemy7B4766DE4C2AC3AD1892B9904A88C9FB.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/AI_Enemy.uasset'
+[2023.08.03-06.11.08:302][617]AssetCheck: New page: Asset Save: AI_Enemy
+[2023.08.03-06.11.08:302][617]LogContentValidation: Display: Validating Blueprint /Game/Enemies/AI_Enemy.AI_Enemy
+[2023.08.03-06.12.07:765][239]BlueprintLog: New page: Compile AI_Enemy
+[2023.08.03-06.12.07:824][239]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2023.08.03-06.12.08:552][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI_Enemy" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/AI_Enemy.uasset" SILENT=true
+[2023.08.03-06.12.08:562][317]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/AI_Enemy7F3E17AA4449C1BC279163A6F7DA6D8F.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/AI_Enemy.uasset'
+[2023.08.03-06.12.08:577][317]AssetCheck: New page: Asset Save: AI_Enemy
+[2023.08.03-06.12.08:577][317]LogContentValidation: Display: Validating Blueprint /Game/Enemies/AI_Enemy.AI_Enemy
+[2023.08.03-06.43.41:171][112]LogAudioMixer: Resetting audio stream to device id 
+[2023.08.03-06.43.41:198][112]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.03-06.43.41:198][112]LogAudioMixer: Display: 1: FrontRight
+[2023.08.03-17.38.33:989][128]LogAudioMixer: Resetting audio stream to device id 
+[2023.08.03-17.38.34:103][128]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.03-17.38.34:104][128]LogAudioMixer: Display: 1: FrontRight
+[2023.08.03-17.39.02:886][215]LogHttp: Warning: 000001243B339600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5C3A3E1-4446-70F1-9D35-939E6603C62A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=a3e8f05e43b1f851021775b735300f84%7C853110b9363c4c58b18612f3329ad5d1%7C76f69b98-f292-4592-a439-6aada4cf773a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.08.03-17.39.02:886][215]LogHttp: Warning: 000001243B339600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.08.03-17.39.02:886][215]LogHttp: Warning: 000001243B339600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1237b0cfeb0 [can pipeline])
+[2023.08.03-17.39.02:886][215]LogHttp: Warning: 000001243B339600: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2023.08.03-17.39.02:886][215]LogHttp: Warning: 000001243B339600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.214.209.63) port 443 (#1))
+[2023.08.03-17.39.02:886][215]LogHttp: Warning: 000001243B339600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.08.03-17.39.02:886][215]LogHttp: Warning: 000001243B339600: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.08.03-17.39.02:886][215]LogHttp: Warning: 000001243B339600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.08.03-17.39.02:886][215]LogHttp: Warning: 000001243B339600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.08.03-17.39.02:886][215]LogHttp: Warning: 000001243B339600: libcurl info message cache 7 (Closing connection 1)
+[2023.08.03-17.39.03:219][216]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5C3A3E1-4446-70F1-9D35-939E6603C62A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=a3e8f05e43b1f851021775b735300f84%7C853110b9363c4c58b18612f3329ad5d1%7C76f69b98-f292-4592-a439-6aada4cf773a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.08.03-21.50.08:283][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.03-21.50.08:771][363]LogUObjectHash: Compacting FUObjectHashTables data took  28.24ms
+[2023.08.03-21.50.09:098][363]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreakE31434514894BA3BA321FCB3FF9875A4.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap'
+[2023.08.03-21.50.09:183][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak_BuiltData" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset" SILENT=true
+[2023.08.03-21.50.09:462][363]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak_BuiltDataBD8062E040816E7FDCAC8BAC2027646C.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset'
+[2023.08.03-21.50.09:598][363]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.03-21.50.09:599][363]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PrisonBreak_BuiltData.PrisonBreak_BuiltData
+[2023.08.03-21.50.09:599][363]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
+[2023.08.04-02.40.10:979][580]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BPI_Interact.BPI_Interact
+[2023.08.04-02.40.13:670][845]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-02.40.13:671][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.40.15:670][ 50]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BPI_Door.BPI_Door
+[2023.08.04-02.40.18:783][385]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-02.40.18:783][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.42.02:922][  0]LogUObjectHash: Compacting FUObjectHashTables data took  13.29ms
+[2023.08.04-02.42.02:932][  0]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/PrisonBreak' took 0.338
+[2023.08.04-02.42.02:935][  0]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/BP_SlidingDoor] ([2] browsable assets)...
+[2023.08.04-02.42.02:960][  0]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor]
+[2023.08.04-02.42.02:971][  0]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor]
+[2023.08.04-02.42.02:971][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BP_SlidingDoor]
+[2023.08.04-02.42.03:013][  0]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_SlidingDoor_Auto90548CC6A47B342078D25A38CF1985BAA.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/Autosaves/Game/BluePrints/BP_SlidingDoor_Auto9.uasset'
+[2023.08.04-02.42.03:016][  0]LogFileHelpers: Auto-saving content packages took 0.082
+[2023.08.04-02.42.25:349][230]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.08.04-02.43.03:390][634]BlueprintLog: New page: Compile BP_SlidingDoor
+[2023.08.04-02.43.03:471][634]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2023.08.04-02.43.09:204][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_SlidingDoor" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset" SILENT=true
+[2023.08.04-02.43.09:222][311]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_SlidingDoor8F83C90E428237B8CECFDD820EF84DE0.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset'
+[2023.08.04-02.43.09:238][311]AssetCheck: New page: Asset Save: BP_SlidingDoor
+[2023.08.04-02.43.09:238][311]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor
+[2023.08.04-02.43.41:986][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (largedoor)
+[2023.08.04-02.43.53:180][280]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2023.08.04-02.43.57:559][750]LogEditorViewport: Clicking on Actor (LMB): BP_Key_C (BP_Key)
+[2023.08.04-02.44.03:619][430]LogEditorViewport: Clicking on Actor (LMB): BP_Button_C (BP_Button)
+[2023.08.04-02.44.18:399][125]BlueprintLog: New page: Compile BP_Button
+[2023.08.04-02.44.18:473][125]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2023.08.04-02.44.19:039][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Button" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Button.uasset" SILENT=true
+[2023.08.04-02.44.19:052][185]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_Button2B1D720646D1C98997AACB96852BFB5E.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Button.uasset'
+[2023.08.04-02.44.19:068][185]AssetCheck: New page: Asset Save: BP_Button
+[2023.08.04-02.44.19:068][185]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Button.BP_Button
+[2023.08.04-02.44.27:290][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (largedoor)
+[2023.08.04-02.44.35:536][940]Cmd: DELETE
+[2023.08.04-02.44.35:536][940]Cmd: ACTOR DELETE
+[2023.08.04-02.44.35:575][940]LogEditorActor: Deleted Actor: BP_SlidingDoor_C
+[2023.08.04-02.44.35:614][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2023.08.04-02.44.35:618][940]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2023.08.04-02.44.36:227][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (largedoor)
+[2023.08.04-02.44.36:588][ 46]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (largedoor)
+[2023.08.04-02.44.43:332][644]EditorErrors: New page: Actor Reattachment
+[2023.08.04-02.44.45:819][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.04-02.44.45:854][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.08.04-02.44.46:102][924]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak26D421AD4B0135F7A696FC9BBC741B91.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap'
+[2023.08.04-02.44.46:120][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak_BuiltData" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset" SILENT=true
+[2023.08.04-02.44.46:386][924]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak_BuiltDataF39DC6CD4C9D694CC0D74189B8A6E7F6.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset'
+[2023.08.04-02.44.46:404][924]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.04-02.44.46:404][924]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PrisonBreak_BuiltData.PrisonBreak_BuiltData
+[2023.08.04-02.44.46:404][924]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
+[2023.08.04-02.44.50:753][405]LogEditorViewport: Clicking on Actor (LMB): BP_Button_C (BP_Button)
+[2023.08.04-02.45.14:290][953]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.08.04-02.45.17:487][326]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.08.04-02.45.17:494][326]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.08.04-02.45.25:233][221]BlueprintLog: New page: Compile BP_Button
+[2023.08.04-02.45.25:302][221]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2023.08.04-02.45.25:871][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Button" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Button.uasset" SILENT=true
+[2023.08.04-02.45.25:884][280]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_Button0D4DDD4B4BE92F31DD90678B86E767AF.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Button.uasset'
+[2023.08.04-02.45.25:898][280]AssetCheck: New page: Asset Save: BP_Button
+[2023.08.04-02.45.25:898][280]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Button.BP_Button
+[2023.08.04-02.45.31:007][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.04-02.45.31:042][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2023.08.04-02.45.31:288][825]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak1C68D9D24360684DC237AF98D15A1483.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap'
+[2023.08.04-02.45.31:307][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak_BuiltData" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset" SILENT=true
+[2023.08.04-02.45.31:540][825]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak_BuiltDataB9362FAA418FFD804AECE695DA0C0D6C.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset'
+[2023.08.04-02.45.31:559][825]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.04-02.45.31:559][825]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PrisonBreak_BuiltData.PrisonBreak_BuiltData
+[2023.08.04-02.45.31:559][825]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
+[2023.08.04-02.45.31:865][860]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.04-02.45.31:902][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-02.45.31:904][860]PIE: New page: PIE session: PrisonBreak (4 Aug 2023, 04:45:31)
+[2023.08.04-02.45.31:933][860]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.45.32:166][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.232300s)
+[2023.08.04-02.45.32:170][860]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.04-02.45.32:173][860]LogPlayLevel: PIE: World Init took: (0.006675s)
+[2023.08.04-02.45.32:173][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.240413s)
+[2023.08.04-02.45.32:211][860]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.08.04-02.45.32:215][860]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.08.04-02.45.32:216][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-02.45.32:216][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-02.45.32:216][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-02.45.32:216][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-02.45.32:216][860]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.04-02.45.32:216][860]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.04-02.45.32:216][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.04-02.45.32:216][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-02.45.32:218][860]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.04-02.45.32:218][860]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.04-02.45.32:223][860]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.04-02.45.32:223][860]LogAudioMixer: Display: 1: FrontRight
+[2023.08.04-02.45.32:232][860]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.04-02.45.32:234][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-02.45.32:234][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-02.45.32:235][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-02.45.32:236][860]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.04-02.45.32:236][860]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.04-02.45.32:236][860]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.04-02.45.32:251][860]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.04-02.45.32:251][860]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.04-02.45.32:251][860]LogInit: FAudioDevice initialized.
+[2023.08.04-02.45.32:251][860]LogAudio: Display: Audio Device (ID: 12) registered with world 'PrisonBreak'.
+[2023.08.04-02.45.32:286][860]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.04-02.45.32:312][860]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.04-03.45.32
+[2023.08.04-02.45.32:321][860]LogWorld: Bringing up level for play took: 0.028413
+[2023.08.04-02.45.32:324][860]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2023.08.04-02.45.32:350][860]PIE: Server logged in
+[2023.08.04-02.45.32:352][860]PIE: Play in editor total start time 0.479 seconds.
+[2023.08.04-02.45.41:566][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.45.41:566][934]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.45.41:567][934]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-02.45.41:569][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.45.41:588][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-02.45.41:599][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.45.41:633][934]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-02.45.41:635][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.45.41:636][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.45.41:650][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.45.41:660][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.08.04-02.45.41:707][935]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2023.08.04-02.46.11:343][368]BlueprintLog: New page: Compile BP_Door
+[2023.08.04-02.46.11:411][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.08.04-02.46.12:110][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Door" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Door.uasset" SILENT=true
+[2023.08.04-02.46.12:126][441]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_Door58E28BF744E5ACA6017ED19E97DD1EFF.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Door.uasset'
+[2023.08.04-02.46.12:142][441]AssetCheck: New page: Asset Save: BP_Door
+[2023.08.04-02.46.12:142][441]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Door.BP_Door
+[2023.08.04-02.46.32:595][838]LogEditorViewport: Clicking on Actor (LMB): BP_Key_C (BP_Key)
+[2023.08.04-02.46.43:019][ 33]LogEditorViewport: Clicking on Actor (LMB): BP_Button_C (BP_Button)
+[2023.08.04-02.46.53:567][234]LogEditorViewport: Clicking on Actor (LMB): BP_SlidingDoor_C (largedoor)
+[2023.08.04-02.46.56:411][565]Cmd: DELETE
+[2023.08.04-02.46.56:411][565]Cmd: ACTOR DELETE
+[2023.08.04-02.46.56:424][565]LogEditorActor: Actor largedoor is referenced by BP_Button.
+[2023.08.04-02.46.58:308][565]LogSlate: Window 'Message' being destroyed
+[2023.08.04-02.46.58:313][565]Message dialog closed, result: Yes, title: Message, text: Actor largedoor is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+BP_Button
+[2023.08.04-02.46.58:318][565]LogEditorActor: Deleted Actor: BP_SlidingDoor_C
+[2023.08.04-02.46.58:359][565]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2023.08.04-02.46.58:365][565]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2023.08.04-02.47.17:818][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.04-02.47.17:853][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.08.04-02.47.18:096][790]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak26716F8C465B6DCE4FCD65AAD16378F4.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap'
+[2023.08.04-02.47.18:113][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak_BuiltData" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset" SILENT=true
+[2023.08.04-02.47.18:348][790]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak_BuiltData32C444E7489DB4A0B8BE7DBAEB20F6FF.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset'
+[2023.08.04-02.47.18:366][790]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.04-02.47.18:366][790]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PrisonBreak_BuiltData.PrisonBreak_BuiltData
+[2023.08.04-02.47.18:366][790]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
+[2023.08.04-02.47.18:657][823]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.04-02.47.18:670][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-02.47.18:670][823]PIE: New page: PIE session: PrisonBreak (4 Aug 2023, 04:47:18)
+[2023.08.04-02.47.18:700][823]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.47.18:776][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075064s)
+[2023.08.04-02.47.18:776][823]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.04-02.47.18:777][823]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2023.08.04-02.47.18:777][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.076215s)
+[2023.08.04-02.47.18:812][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.08.04-02.47.18:814][823]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.08.04-02.47.18:814][823]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-02.47.18:814][823]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-02.47.18:814][823]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-02.47.18:814][823]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-02.47.18:814][823]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.04-02.47.18:814][823]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.04-02.47.18:814][823]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.04-02.47.18:814][823]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-02.47.18:814][823]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.04-02.47.18:814][823]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.04-02.47.18:818][823]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.04-02.47.18:818][823]LogAudioMixer: Display: 1: FrontRight
+[2023.08.04-02.47.18:825][823]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.04-02.47.18:825][823]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-02.47.18:825][823]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-02.47.18:825][823]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-02.47.18:826][823]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.04-02.47.18:826][823]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.04-02.47.18:826][823]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.04-02.47.18:840][823]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.04-02.47.18:840][823]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.04-02.47.18:840][823]LogInit: FAudioDevice initialized.
+[2023.08.04-02.47.18:840][823]LogAudio: Display: Audio Device (ID: 13) registered with world 'PrisonBreak'.
+[2023.08.04-02.47.18:852][823]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.04-02.47.18:857][823]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.04-03.47.18
+[2023.08.04-02.47.18:857][823]LogWorld: Bringing up level for play took: 0.005304
+[2023.08.04-02.47.18:858][823]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2023.08.04-02.47.18:862][823]PIE: Server logged in
+[2023.08.04-02.47.18:863][823]PIE: Play in editor total start time 0.2 seconds.
+[2023.08.04-02.47.36:654][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.47.36:655][914]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.47.36:656][914]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-02.47.36:656][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.47.36:667][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-02.47.36:678][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.47.36:726][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.47.36:726][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.47.36:727][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.47.36:746][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.08.04-02.47.36:790][915]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2023.08.04-02.48.06:245][338]BlueprintLog: New page: Compile BP_Button
+[2023.08.04-02.48.06:323][338]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2023.08.04-02.48.06:764][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Button" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Button.uasset" SILENT=true
+[2023.08.04-02.48.06:775][379]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_Button3F94DA6F42B392DD0F3C0CAF0BC78768.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Button.uasset'
+[2023.08.04-02.48.06:789][379]AssetCheck: New page: Asset Save: BP_Button
+[2023.08.04-02.48.06:789][379]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Button.BP_Button
+[2023.08.04-02.48.34:477][555]LogEditorViewport: Clicking on Actor (LMB): BP_Button_C (BP_Button)
+[2023.08.04-02.49.33:490][519]BlueprintLog: New page: Compile BP_Button
+[2023.08.04-02.49.33:580][519]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2023.08.04-02.49.34:070][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Button" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Button.uasset" SILENT=true
+[2023.08.04-02.49.34:082][565]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_ButtonC0678A3D4F847E0838CD9DA8F47FE3E3.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Button.uasset'
+[2023.08.04-02.49.34:098][565]AssetCheck: New page: Asset Save: BP_Button
+[2023.08.04-02.49.34:098][565]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Button.BP_Button
+[2023.08.04-02.49.42:560][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.04-02.49.42:596][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2023.08.04-02.49.42:837][501]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak0FE31DA549FDC9E1375E8DB5D4C25CC0.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap'
+[2023.08.04-02.49.42:858][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak_BuiltData" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset" SILENT=true
+[2023.08.04-02.49.43:091][501]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak_BuiltData3965E0204ADABE00AAE377A6FE5850A6.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset'
+[2023.08.04-02.49.43:108][501]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.04-02.49.43:108][501]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PrisonBreak_BuiltData.PrisonBreak_BuiltData
+[2023.08.04-02.49.43:108][501]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
+[2023.08.04-02.49.43:468][541]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.04-02.49.43:478][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-02.49.43:478][541]PIE: New page: PIE session: PrisonBreak (4 Aug 2023, 04:49:43)
+[2023.08.04-02.49.43:511][541]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.49.43:587][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076270s)
+[2023.08.04-02.49.43:588][541]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.04-02.49.43:588][541]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2023.08.04-02.49.43:588][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.077430s)
+[2023.08.04-02.49.43:624][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.08.04-02.49.43:625][541]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.08.04-02.49.43:625][541]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-02.49.43:625][541]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-02.49.43:625][541]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-02.49.43:625][541]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-02.49.43:625][541]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.04-02.49.43:625][541]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.04-02.49.43:625][541]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.04-02.49.43:625][541]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-02.49.43:625][541]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.04-02.49.43:625][541]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.04-02.49.43:629][541]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.04-02.49.43:629][541]LogAudioMixer: Display: 1: FrontRight
+[2023.08.04-02.49.43:636][541]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.04-02.49.43:636][541]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-02.49.43:637][541]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-02.49.43:637][541]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-02.49.43:637][541]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.04-02.49.43:637][541]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.04-02.49.43:637][541]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.04-02.49.43:651][541]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.04-02.49.43:651][541]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.04-02.49.43:651][541]LogInit: FAudioDevice initialized.
+[2023.08.04-02.49.43:651][541]LogAudio: Display: Audio Device (ID: 14) registered with world 'PrisonBreak'.
+[2023.08.04-02.49.43:662][541]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.04-02.49.43:666][541]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.04-03.49.43
+[2023.08.04-02.49.43:667][541]LogWorld: Bringing up level for play took: 0.004901
+[2023.08.04-02.49.43:667][541]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2023.08.04-02.49.43:671][541]PIE: Server logged in
+[2023.08.04-02.49.43:672][541]PIE: Play in editor total start time 0.198 seconds.
+[2023.08.04-02.50.02:230][758]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1779.157 Y=-4266.040 Z=237.939] for [FirstPersonProjectile_C]
+[2023.08.04-02.50.10:004][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.50.10:004][687]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.50.10:004][687]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-02.50.10:005][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.50.10:013][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-02.50.10:024][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.50.10:057][687]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-02.50.10:059][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.50.10:060][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.50.10:073][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.50.10:081][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.08.04-02.50.10:126][688]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.08.04-02.50.31:406][176]BlueprintLog: New page: Compile BP_Button
+[2023.08.04-02.50.31:472][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2023.08.04-02.50.31:897][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Button" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Button.uasset" SILENT=true
+[2023.08.04-02.50.31:909][219]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_Button3D57CAA44CEF8EDDC7E3BEB17E28781B.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Button.uasset'
+[2023.08.04-02.50.31:929][219]AssetCheck: New page: Asset Save: BP_Button
+[2023.08.04-02.50.31:930][219]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Button.BP_Button
+[2023.08.04-02.51.06:737][331]BlueprintLog: New page: Compile BP_SlidingDoor
+[2023.08.04-02.51.06:798][331]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2023.08.04-02.51.07:302][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_SlidingDoor" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset" SILENT=true
+[2023.08.04-02.51.07:317][384]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_SlidingDoor929ED6DA466B4DD29EB210B48D1BB8D9.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset'
+[2023.08.04-02.51.07:332][384]AssetCheck: New page: Asset Save: BP_SlidingDoor
+[2023.08.04-02.51.07:332][384]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor
+[2023.08.04-02.51.27:370][711]BlueprintLog: New page: Compile BP_SlidingDoor
+[2023.08.04-02.51.27:437][711]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2023.08.04-02.51.28:048][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_SlidingDoor" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset" SILENT=true
+[2023.08.04-02.51.28:062][776]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_SlidingDoor50F5A77144E806BD73295BA8884FA448.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset'
+[2023.08.04-02.51.28:077][776]AssetCheck: New page: Asset Save: BP_SlidingDoor
+[2023.08.04-02.51.28:077][776]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor
+[2023.08.04-02.51.57:566][280]BlueprintLog: New page: Compile BP_SlidingDoor
+[2023.08.04-02.51.57:624][280]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2023.08.04-02.51.58:161][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_SlidingDoor" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset" SILENT=true
+[2023.08.04-02.51.58:174][337]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_SlidingDoorF03F38954497C81865563A8DE8E4444F.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset'
+[2023.08.04-02.51.58:194][337]AssetCheck: New page: Asset Save: BP_SlidingDoor
+[2023.08.04-02.51.58:194][337]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor
+[2023.08.04-02.52.00:373][568]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.04-02.52.00:385][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-02.52.00:385][568]PIE: New page: PIE session: PrisonBreak (4 Aug 2023, 04:52:00)
+[2023.08.04-02.52.00:410][568]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.52.00:485][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074627s)
+[2023.08.04-02.52.00:486][568]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.04-02.52.00:486][568]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2023.08.04-02.52.00:486][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.075800s)
+[2023.08.04-02.52.00:524][568]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2023.08.04-02.52.00:526][568]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.08.04-02.52.00:526][568]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-02.52.00:526][568]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-02.52.00:526][568]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-02.52.00:526][568]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-02.52.00:526][568]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.04-02.52.00:526][568]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.04-02.52.00:526][568]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.04-02.52.00:526][568]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-02.52.00:527][568]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.04-02.52.00:527][568]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.04-02.52.00:531][568]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.04-02.52.00:531][568]LogAudioMixer: Display: 1: FrontRight
+[2023.08.04-02.52.00:538][568]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.04-02.52.00:539][568]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-02.52.00:539][568]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-02.52.00:539][568]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-02.52.00:539][568]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.04-02.52.00:539][568]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.04-02.52.00:539][568]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.04-02.52.00:553][568]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.04-02.52.00:553][568]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.04-02.52.00:553][568]LogInit: FAudioDevice initialized.
+[2023.08.04-02.52.00:553][568]LogAudio: Display: Audio Device (ID: 15) registered with world 'PrisonBreak'.
+[2023.08.04-02.52.00:563][568]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.04-02.52.00:568][568]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.04-03.52.00
+[2023.08.04-02.52.00:568][568]LogWorld: Bringing up level for play took: 0.005121
+[2023.08.04-02.52.00:568][568]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2023.08.04-02.52.00:572][568]PIE: Server logged in
+[2023.08.04-02.52.00:573][568]PIE: Play in editor total start time 0.194 seconds.
+[2023.08.04-02.52.22:854][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.52.22:854][224]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.52.22:854][224]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-02.52.22:855][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.52.22:870][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-02.52.22:880][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.52.22:914][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.52.22:916][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.52.22:917][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.52.22:935][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.08.04-02.52.22:979][225]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.08.04-02.52.30:331][ 96]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.04-02.52.30:340][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-02.52.30:340][ 96]PIE: New page: PIE session: PrisonBreak (4 Aug 2023, 04:52:30)
+[2023.08.04-02.52.30:340][ 96]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.52.30:418][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077497s)
+[2023.08.04-02.52.30:418][ 96]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.04-02.52.30:419][ 96]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2023.08.04-02.52.30:419][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.078628s)
+[2023.08.04-02.52.30:454][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.08.04-02.52.30:455][ 96]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.08.04-02.52.30:455][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-02.52.30:455][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-02.52.30:455][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-02.52.30:455][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-02.52.30:455][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.04-02.52.30:455][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.04-02.52.30:455][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.04-02.52.30:455][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-02.52.30:456][ 96]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.04-02.52.30:456][ 96]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.04-02.52.30:460][ 96]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.04-02.52.30:460][ 96]LogAudioMixer: Display: 1: FrontRight
+[2023.08.04-02.52.30:466][ 96]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.04-02.52.30:467][ 96]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-02.52.30:467][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-02.52.30:467][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-02.52.30:467][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.04-02.52.30:467][ 96]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.04-02.52.30:467][ 96]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.04-02.52.30:480][ 96]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.04-02.52.30:480][ 96]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.04-02.52.30:480][ 96]LogInit: FAudioDevice initialized.
+[2023.08.04-02.52.30:480][ 96]LogAudio: Display: Audio Device (ID: 16) registered with world 'PrisonBreak'.
+[2023.08.04-02.52.30:509][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.52.30:510][ 96]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.04-02.52.30:516][ 96]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.04-03.52.30
+[2023.08.04-02.52.30:516][ 96]LogWorld: Bringing up level for play took: 0.005435
+[2023.08.04-02.52.30:516][ 96]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2023.08.04-02.52.30:523][ 96]PIE: Server logged in
+[2023.08.04-02.52.30:524][ 96]PIE: Play in editor total start time 0.187 seconds.
+[2023.08.04-02.52.39:994][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.52.39:994][ 12]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.52.39:995][ 12]LogSlate: Window 'PrisonBreak Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.08.04-02.52.40:001][ 12]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-02.52.40:002][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.52.40:014][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-02.52.40:025][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.52.40:061][ 12]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-02.52.40:063][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.52.40:064][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.52.40:087][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.08.04-02.52.40:105][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.08.04-02.52.44:107][483]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.04-02.52.44:115][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-02.52.44:115][483]PIE: New page: PIE session: PrisonBreak (4 Aug 2023, 04:52:44)
+[2023.08.04-02.52.44:115][483]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.52.44:191][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075568s)
+[2023.08.04-02.52.44:192][483]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.04-02.52.44:192][483]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2023.08.04-02.52.44:192][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.076771s)
+[2023.08.04-02.52.44:227][483]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.08.04-02.52.44:228][483]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.08.04-02.52.44:228][483]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-02.52.44:228][483]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-02.52.44:228][483]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-02.52.44:228][483]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-02.52.44:228][483]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.04-02.52.44:228][483]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.04-02.52.44:228][483]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.04-02.52.44:228][483]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-02.52.44:228][483]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.04-02.52.44:228][483]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.04-02.52.44:232][483]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.04-02.52.44:232][483]LogAudioMixer: Display: 1: FrontRight
+[2023.08.04-02.52.44:239][483]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.04-02.52.44:239][483]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-02.52.44:239][483]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-02.52.44:239][483]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-02.52.44:240][483]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.04-02.52.44:240][483]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.04-02.52.44:240][483]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.04-02.52.44:253][483]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.04-02.52.44:253][483]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.04-02.52.44:253][483]LogInit: FAudioDevice initialized.
+[2023.08.04-02.52.44:253][483]LogAudio: Display: Audio Device (ID: 17) registered with world 'PrisonBreak'.
+[2023.08.04-02.52.44:274][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.52.44:274][483]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.04-02.52.44:280][483]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.04-03.52.44
+[2023.08.04-02.52.44:281][483]LogWorld: Bringing up level for play took: 0.005794
+[2023.08.04-02.52.44:281][483]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2023.08.04-02.52.44:293][483]PIE: Server logged in
+[2023.08.04-02.52.44:294][483]PIE: Play in editor total start time 0.181 seconds.
+[2023.08.04-02.53.19:864][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.53.19:864][441]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.53.19:865][441]LogSlate: Window 'PrisonBreak Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.08.04-02.53.19:871][441]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-02.53.19:872][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.53.19:885][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-02.53.19:895][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.53.19:931][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.53.19:932][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.53.19:951][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.08.04-02.53.19:970][442]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2023.08.04-02.53.22:718][761]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.04-02.53.22:727][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-02.53.22:727][761]PIE: New page: PIE session: PrisonBreak (4 Aug 2023, 04:53:22)
+[2023.08.04-02.53.22:727][761]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.53.22:802][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075008s)
+[2023.08.04-02.53.22:803][761]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.04-02.53.22:803][761]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2023.08.04-02.53.22:803][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.076183s)
+[2023.08.04-02.53.22:838][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.08.04-02.53.22:841][761]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.08.04-02.53.22:841][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-02.53.22:841][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-02.53.22:841][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-02.53.22:841][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-02.53.22:841][761]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.04-02.53.22:841][761]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.04-02.53.22:841][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.04-02.53.22:841][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-02.53.22:842][761]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.04-02.53.22:842][761]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.04-02.53.22:846][761]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.04-02.53.22:846][761]LogAudioMixer: Display: 1: FrontRight
+[2023.08.04-02.53.22:852][761]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.04-02.53.22:853][761]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-02.53.22:853][761]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-02.53.22:853][761]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-02.53.22:853][761]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.04-02.53.22:853][761]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.04-02.53.22:853][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.04-02.53.22:866][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.04-02.53.22:867][761]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.04-02.53.22:867][761]LogInit: FAudioDevice initialized.
+[2023.08.04-02.53.22:867][761]LogAudio: Display: Audio Device (ID: 18) registered with world 'PrisonBreak'.
+[2023.08.04-02.53.22:888][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.53.22:888][761]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.04-02.53.22:895][761]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.04-03.53.22
+[2023.08.04-02.53.22:896][761]LogWorld: Bringing up level for play took: 0.006270
+[2023.08.04-02.53.22:896][761]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2023.08.04-02.53.22:902][761]PIE: Server logged in
+[2023.08.04-02.53.22:903][761]PIE: Play in editor total start time 0.179 seconds.
+[2023.08.04-02.53.28:394][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.53.28:394][389]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.53.28:395][389]LogSlate: Window 'PrisonBreak Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.08.04-02.53.28:401][389]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-02.53.28:402][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.53.28:412][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-02.53.28:424][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.53.28:458][389]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-02.53.28:460][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.53.28:461][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.53.28:483][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.08.04-02.53.28:500][390]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2023.08.04-02.53.51:358][114]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.04-02.53.51:366][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-02.53.51:366][114]PIE: New page: PIE session: PrisonBreak (4 Aug 2023, 04:53:51)
+[2023.08.04-02.53.51:366][114]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.53.51:440][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073831s)
+[2023.08.04-02.53.51:441][114]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.04-02.53.51:442][114]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2023.08.04-02.53.51:442][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.075083s)
+[2023.08.04-02.53.51:477][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.08.04-02.53.51:477][114]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.08.04-02.53.51:477][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-02.53.51:477][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-02.53.51:477][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-02.53.51:477][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-02.53.51:477][114]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.04-02.53.51:477][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.04-02.53.51:477][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.04-02.53.51:477][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-02.53.51:478][114]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.04-02.53.51:478][114]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.04-02.53.51:482][114]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.04-02.53.51:482][114]LogAudioMixer: Display: 1: FrontRight
+[2023.08.04-02.53.51:489][114]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.04-02.53.51:490][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-02.53.51:490][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-02.53.51:490][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-02.53.51:490][114]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.04-02.53.51:490][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.04-02.53.51:490][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.04-02.53.51:503][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.04-02.53.51:503][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.04-02.53.51:503][114]LogInit: FAudioDevice initialized.
+[2023.08.04-02.53.51:503][114]LogAudio: Display: Audio Device (ID: 19) registered with world 'PrisonBreak'.
+[2023.08.04-02.53.51:525][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.53.51:525][114]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.04-02.53.51:531][114]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.04-03.53.51
+[2023.08.04-02.53.51:532][114]LogWorld: Bringing up level for play took: 0.006033
+[2023.08.04-02.53.51:532][114]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2023.08.04-02.53.51:537][114]PIE: Server logged in
+[2023.08.04-02.53.51:538][114]PIE: Play in editor total start time 0.174 seconds.
+[2023.08.04-02.53.57:804][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.53.57:804][838]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.53.57:804][838]LogSlate: Window 'PrisonBreak Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.08.04-02.53.57:811][838]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-02.53.57:812][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.53.57:821][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-02.53.57:833][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.53.57:868][838]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-02.53.57:869][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.53.57:870][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.53.57:892][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.08.04-02.53.57:909][839]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2023.08.04-02.54.35:783][283]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.08.04-02.54.51:103][ 73]BlueprintLog: New page: Compile BP_Button
+[2023.08.04-02.54.51:177][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2023.08.04-02.54.51:671][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Button" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Button.uasset" SILENT=true
+[2023.08.04-02.54.51:683][125]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_Button97ED52B6476E6108D30F3D946CDA244C.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_Button.uasset'
+[2023.08.04-02.54.51:696][125]AssetCheck: New page: Asset Save: BP_Button
+[2023.08.04-02.54.51:696][125]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Button.BP_Button
+[2023.08.04-02.54.53:322][304]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.04-02.54.53:332][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-02.54.53:332][304]PIE: New page: PIE session: PrisonBreak (4 Aug 2023, 04:54:53)
+[2023.08.04-02.54.53:360][304]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.54.53:437][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076662s)
+[2023.08.04-02.54.53:438][304]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.04-02.54.53:438][304]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2023.08.04-02.54.53:438][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.077877s)
+[2023.08.04-02.54.53:474][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2023.08.04-02.54.53:476][304]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.08.04-02.54.53:476][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-02.54.53:476][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-02.54.53:476][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-02.54.53:476][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-02.54.53:476][304]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.04-02.54.53:476][304]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.04-02.54.53:476][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.04-02.54.53:476][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-02.54.53:476][304]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.04-02.54.53:476][304]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.04-02.54.53:481][304]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.04-02.54.53:481][304]LogAudioMixer: Display: 1: FrontRight
+[2023.08.04-02.54.53:488][304]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.04-02.54.53:488][304]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-02.54.53:488][304]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-02.54.53:488][304]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-02.54.53:488][304]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.04-02.54.53:488][304]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.04-02.54.53:488][304]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.04-02.54.53:501][304]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.04-02.54.53:501][304]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.04-02.54.53:501][304]LogInit: FAudioDevice initialized.
+[2023.08.04-02.54.53:501][304]LogAudio: Display: Audio Device (ID: 20) registered with world 'PrisonBreak'.
+[2023.08.04-02.54.53:511][304]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.04-02.54.53:516][304]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.04-03.54.53
+[2023.08.04-02.54.53:516][304]LogWorld: Bringing up level for play took: 0.004950
+[2023.08.04-02.54.53:517][304]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2023.08.04-02.54.53:520][304]PIE: Server logged in
+[2023.08.04-02.54.53:521][304]PIE: Play in editor total start time 0.194 seconds.
+[2023.08.04-02.55.12:944][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.55.12:944][620]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.55.12:944][620]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-02.55.12:945][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.55.12:956][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-02.55.12:967][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.55.13:002][620]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-02.55.13:002][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.55.13:003][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.55.13:016][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.55.13:021][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.08.04-02.55.13:065][621]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2023.08.04-02.55.26:105][134]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2023.08.04-02.55.32:572][848]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.04-02.55.37:575][411]LogEditorViewport: Clicking on Actor (LMB): BP_Button_C (BP_Button)
+[2023.08.04-02.55.44:524][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.04-02.55.44:559][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.08.04-02.55.44:801][208]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreakF5CC675C437AE7F2C63014871069EE03.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap'
+[2023.08.04-02.55.44:820][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak_BuiltData" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset" SILENT=true
+[2023.08.04-02.55.45:056][208]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak_BuiltData5B2C52564C42CD784E0D7B98DAF2B906.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset'
+[2023.08.04-02.55.45:078][208]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.04-02.55.45:078][208]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PrisonBreak_BuiltData.PrisonBreak_BuiltData
+[2023.08.04-02.55.45:078][208]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
+[2023.08.04-02.55.45:878][299]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.04-02.55.45:888][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-02.55.45:888][299]PIE: New page: PIE session: PrisonBreak (4 Aug 2023, 04:55:45)
+[2023.08.04-02.55.45:921][299]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.55.45:997][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076224s)
+[2023.08.04-02.55.45:998][299]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.04-02.55.45:998][299]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2023.08.04-02.55.45:998][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.077392s)
+[2023.08.04-02.55.46:034][299]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.08.04-02.55.46:035][299]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.08.04-02.55.46:035][299]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-02.55.46:035][299]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-02.55.46:035][299]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-02.55.46:035][299]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-02.55.46:035][299]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.04-02.55.46:035][299]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.04-02.55.46:035][299]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.04-02.55.46:035][299]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-02.55.46:036][299]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.04-02.55.46:036][299]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.04-02.55.46:040][299]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.04-02.55.46:040][299]LogAudioMixer: Display: 1: FrontRight
+[2023.08.04-02.55.46:047][299]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.04-02.55.46:047][299]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-02.55.46:047][299]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-02.55.46:047][299]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-02.55.46:047][299]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.04-02.55.46:047][299]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.04-02.55.46:047][299]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.04-02.55.46:060][299]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.04-02.55.46:060][299]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.04-02.55.46:060][299]LogInit: FAudioDevice initialized.
+[2023.08.04-02.55.46:060][299]LogAudio: Display: Audio Device (ID: 21) registered with world 'PrisonBreak'.
+[2023.08.04-02.55.46:070][299]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.04-02.55.46:075][299]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.04-03.55.46
+[2023.08.04-02.55.46:076][299]LogWorld: Bringing up level for play took: 0.004961
+[2023.08.04-02.55.46:076][299]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2023.08.04-02.55.46:079][299]PIE: Server logged in
+[2023.08.04-02.55.46:081][299]PIE: Play in editor total start time 0.196 seconds.
+[2023.08.04-02.55.54:374][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.55.54:374][283]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.55.54:374][283]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-02.55.54:375][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.55.54:389][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-02.55.54:400][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.55.54:433][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.55.54:434][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.55.54:435][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.55.54:453][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.08.04-02.55.54:496][284]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2023.08.04-02.55.58:395][728]LogEditorViewport: Clicking on Actor (LMB): BP_SlidingDoor_C (BP_SlidingDoor)
+[2023.08.04-02.56.50:865][762]BlueprintLog: New page: Compile BP_SlidingDoor
+[2023.08.04-02.56.50:938][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.08.04-02.56.52:110][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_SlidingDoor" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset" SILENT=true
+[2023.08.04-02.56.52:122][894]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_SlidingDoor6361D4E242B515D1BF91D582966D0FC0.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset'
+[2023.08.04-02.56.52:135][894]AssetCheck: New page: Asset Save: BP_SlidingDoor
+[2023.08.04-02.56.52:135][894]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor
+[2023.08.04-02.56.53:580][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.04-02.56.53:590][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-02.56.53:590][ 49]PIE: New page: PIE session: PrisonBreak (4 Aug 2023, 04:56:53)
+[2023.08.04-02.56.53:591][ 49]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.56.53:667][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075751s)
+[2023.08.04-02.56.53:668][ 49]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.04-02.56.53:668][ 49]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2023.08.04-02.56.53:668][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.076860s)
+[2023.08.04-02.56.53:706][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2023.08.04-02.56.53:708][ 49]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.08.04-02.56.53:708][ 49]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-02.56.53:708][ 49]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-02.56.53:708][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-02.56.53:708][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-02.56.53:708][ 49]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.04-02.56.53:708][ 49]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.04-02.56.53:708][ 49]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.04-02.56.53:708][ 49]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-02.56.53:709][ 49]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.04-02.56.53:709][ 49]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.04-02.56.53:713][ 49]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.04-02.56.53:713][ 49]LogAudioMixer: Display: 1: FrontRight
+[2023.08.04-02.56.53:720][ 49]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.04-02.56.53:720][ 49]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-02.56.53:720][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-02.56.53:720][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-02.56.53:720][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.04-02.56.53:720][ 49]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.04-02.56.53:720][ 49]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.04-02.56.53:734][ 49]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.04-02.56.53:734][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.04-02.56.53:734][ 49]LogInit: FAudioDevice initialized.
+[2023.08.04-02.56.53:734][ 49]LogAudio: Display: Audio Device (ID: 22) registered with world 'PrisonBreak'.
+[2023.08.04-02.56.53:743][ 49]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.04-02.56.53:748][ 49]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.04-03.56.53
+[2023.08.04-02.56.53:749][ 49]LogWorld: Bringing up level for play took: 0.005055
+[2023.08.04-02.56.53:749][ 49]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2023.08.04-02.56.53:753][ 49]PIE: Server logged in
+[2023.08.04-02.56.53:754][ 49]PIE: Play in editor total start time 0.168 seconds.
+[2023.08.04-02.56.57:814][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.56.57:814][527]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.56.57:814][527]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-02.56.57:815][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.56.57:830][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-02.56.57:842][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.56.57:875][527]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-02.56.57:876][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.56.57:876][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-02.56.57:890][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-02.56.57:895][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.08.04-02.56.57:935][528]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2023.08.04-02.57.03:136][137]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-02.57.03:136][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.57.05:274][376]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.08.04-02.57.05:274][376]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-02.57.05:274][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-02.59.42:971][663]BlueprintLog: New page: Compile BP_SlidingDoor
+[2023.08.04-02.59.43:040][663]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2023.08.04-02.59.43:509][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_SlidingDoor" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset" SILENT=true
+[2023.08.04-02.59.43:521][705]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_SlidingDoor5F4A6E694FC6EAB039454892853E776A.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset'
+[2023.08.04-02.59.43:538][705]AssetCheck: New page: Asset Save: BP_SlidingDoor
+[2023.08.04-02.59.43:538][705]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor
+[2023.08.04-02.59.44:692][833]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.04-02.59.44:702][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-02.59.44:703][833]PIE: New page: PIE session: PrisonBreak (4 Aug 2023, 04:59:44)
+[2023.08.04-02.59.44:731][833]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-02.59.44:807][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075850s)
+[2023.08.04-02.59.44:808][833]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.04-02.59.44:808][833]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2023.08.04-02.59.44:808][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.077071s)
+[2023.08.04-02.59.44:842][833]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2023.08.04-02.59.44:844][833]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.08.04-02.59.44:844][833]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-02.59.44:844][833]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-02.59.44:844][833]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-02.59.44:844][833]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-02.59.44:844][833]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.04-02.59.44:844][833]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.04-02.59.44:844][833]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.04-02.59.44:844][833]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-02.59.44:845][833]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.04-02.59.44:845][833]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.04-02.59.44:849][833]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.04-02.59.44:849][833]LogAudioMixer: Display: 1: FrontRight
+[2023.08.04-02.59.44:856][833]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.04-02.59.44:856][833]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-02.59.44:856][833]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-02.59.44:856][833]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-02.59.44:857][833]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.04-02.59.44:857][833]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.04-02.59.44:857][833]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.04-02.59.44:870][833]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.04-02.59.44:870][833]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.04-02.59.44:870][833]LogInit: FAudioDevice initialized.
+[2023.08.04-02.59.44:870][833]LogAudio: Display: Audio Device (ID: 23) registered with world 'PrisonBreak'.
+[2023.08.04-02.59.44:880][833]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.04-02.59.44:885][833]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.04-03.59.44
+[2023.08.04-02.59.44:886][833]LogWorld: Bringing up level for play took: 0.005175
+[2023.08.04-02.59.44:886][833]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2023.08.04-02.59.44:890][833]PIE: Server logged in
+[2023.08.04-02.59.44:891][833]PIE: Play in editor total start time 0.193 seconds.
+[2023.08.04-03.00.02:984][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-03.00.02:984][994]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-03.00.02:984][994]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-03.00.02:985][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-03.00.03:000][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-03.00.03:012][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-03.00.03:047][994]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-03.00.03:047][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-03.00.03:048][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-03.00.03:061][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-03.00.03:067][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.08.04-03.00.03:107][995]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2023.08.04-03.00.06:686][405]Cmd: EDIT COPY
+[2023.08.04-03.00.06:987][441]Cmd: EDIT PASTE
+[2023.08.04-03.00.43:130][643]Cmd: DELETE
+[2023.08.04-03.00.43:130][643]Cmd: ACTOR DELETE
+[2023.08.04-03.00.43:147][643]LogEditorActor: Deleted Actor: BP_SlidingDoor_C
+[2023.08.04-03.00.43:181][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.08.04-03.00.43:187][643]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2023.08.04-03.00.44:004][738]LogEditorViewport: Clicking on Actor (LMB): BP_SlidingDoor_C (BP_SlidingDoor)
+[2023.08.04-03.01.59:447][633]LogEditorViewport: Clicking on Actor (LMB): BP_Button_C (BP_Button)
+[2023.08.04-03.02.55:193][161]BlueprintLog: New page: Compile BP_SlidingDoor
+[2023.08.04-03.02.55:248][161]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.08.04-03.02.55:741][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_SlidingDoor" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset" SILENT=true
+[2023.08.04-03.02.55:753][206]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_SlidingDoor13E253314C7C9CA9F5DAF88D29ECC916.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset'
+[2023.08.04-03.02.55:770][206]AssetCheck: New page: Asset Save: BP_SlidingDoor
+[2023.08.04-03.02.55:770][206]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor
+[2023.08.04-03.02.57:888][438]LogEditorViewport: Clicking on Actor (LMB): BP_SlidingDoor_C (BP_SlidingDoor)
+[2023.08.04-03.03.02:223][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.04-03.03.02:257][924]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2023.08.04-03.03.02:501][924]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreakDDDBCFE04E8FD9EC3B290AA8C7563317.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap'
+[2023.08.04-03.03.02:518][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak_BuiltData" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset" SILENT=true
+[2023.08.04-03.03.02:755][924]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak_BuiltDataE90E049946324F6A0690F2A830676012.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset'
+[2023.08.04-03.03.02:776][924]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.04-03.03.02:776][924]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PrisonBreak_BuiltData.PrisonBreak_BuiltData
+[2023.08.04-03.03.02:776][924]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
+[2023.08.04-03.03.03:079][959]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.04-03.03.03:088][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-03.03.03:089][959]PIE: New page: PIE session: PrisonBreak (4 Aug 2023, 05:03:03)
+[2023.08.04-03.03.03:131][959]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-03.03.03:206][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074780s)
+[2023.08.04-03.03.03:206][959]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.04-03.03.03:207][959]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2023.08.04-03.03.03:207][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.075961s)
+[2023.08.04-03.03.03:239][959]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.08.04-03.03.03:240][959]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.08.04-03.03.03:240][959]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-03.03.03:240][959]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-03.03.03:240][959]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-03.03.03:240][959]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-03.03.03:241][959]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.04-03.03.03:241][959]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.04-03.03.03:241][959]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.04-03.03.03:241][959]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-03.03.03:241][959]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.04-03.03.03:241][959]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.04-03.03.03:245][959]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.04-03.03.03:245][959]LogAudioMixer: Display: 1: FrontRight
+[2023.08.04-03.03.03:252][959]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.04-03.03.03:252][959]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-03.03.03:252][959]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-03.03.03:252][959]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-03.03.03:253][959]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.04-03.03.03:253][959]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.04-03.03.03:253][959]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.04-03.03.03:266][959]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.04-03.03.03:266][959]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.04-03.03.03:266][959]LogInit: FAudioDevice initialized.
+[2023.08.04-03.03.03:266][959]LogAudio: Display: Audio Device (ID: 24) registered with world 'PrisonBreak'.
+[2023.08.04-03.03.03:278][959]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.04-03.03.03:283][959]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.04-04.03.03
+[2023.08.04-03.03.03:283][959]LogWorld: Bringing up level for play took: 0.005144
+[2023.08.04-03.03.03:283][959]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2023.08.04-03.03.03:287][959]PIE: Server logged in
+[2023.08.04-03.03.03:288][959]PIE: Play in editor total start time 0.203 seconds.
+[2023.08.04-03.03.11:784][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-03.03.11:784][963]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-03.03.11:784][963]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-03.03.11:785][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-03.03.11:800][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-03.03.11:810][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-03.03.11:841][963]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-03.03.11:841][963]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-03.03.11:841][963]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-03.03.11:855][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-03.03.11:861][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.08.04-03.03.11:900][964]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2023.08.04-03.03.38:327][  3]BlueprintLog: New page: Compile BP_SlidingDoor
+[2023.08.04-03.03.38:388][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.08.04-03.03.39:980][176]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.04-03.03.39:989][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-03.03.39:989][176]PIE: New page: PIE session: PrisonBreak (4 Aug 2023, 05:03:39)
+[2023.08.04-03.03.40:010][176]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-03.03.40:085][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074580s)
+[2023.08.04-03.03.40:086][176]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.04-03.03.40:086][176]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2023.08.04-03.03.40:086][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.075728s)
+[2023.08.04-03.03.40:120][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2023.08.04-03.03.40:121][176]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.08.04-03.03.40:121][176]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-03.03.40:121][176]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-03.03.40:121][176]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-03.03.40:121][176]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-03.03.40:121][176]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.04-03.03.40:121][176]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.04-03.03.40:121][176]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.04-03.03.40:121][176]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-03.03.40:122][176]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.04-03.03.40:122][176]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.04-03.03.40:126][176]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.04-03.03.40:126][176]LogAudioMixer: Display: 1: FrontRight
+[2023.08.04-03.03.40:133][176]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.04-03.03.40:134][176]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-03.03.40:134][176]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-03.03.40:134][176]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-03.03.40:134][176]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.04-03.03.40:134][176]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.04-03.03.40:134][176]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.04-03.03.40:147][176]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.04-03.03.40:147][176]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.04-03.03.40:147][176]LogInit: FAudioDevice initialized.
+[2023.08.04-03.03.40:147][176]LogAudio: Display: Audio Device (ID: 25) registered with world 'PrisonBreak'.
+[2023.08.04-03.03.40:158][176]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.04-03.03.40:163][176]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.04-04.03.40
+[2023.08.04-03.03.40:163][176]LogWorld: Bringing up level for play took: 0.005223
+[2023.08.04-03.03.40:163][176]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2023.08.04-03.03.40:167][176]PIE: Server logged in
+[2023.08.04-03.03.40:168][176]PIE: Play in editor total start time 0.182 seconds.
+[2023.08.04-03.03.44:454][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-03.03.44:454][679]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-03.03.44:454][679]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-03.03.44:455][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-03.03.44:467][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-03.03.44:478][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-03.03.44:508][679]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-03.03.44:508][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-03.03.44:509][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-03.03.44:524][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-03.03.44:529][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.08.04-03.03.44:572][680]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.08.04-03.03.49:004][181]BlueprintLog: New page: Compile BP_SlidingDoor
+[2023.08.04-03.03.49:063][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.08.04-03.03.49:545][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_SlidingDoor" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset" SILENT=true
+[2023.08.04-03.03.49:557][225]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_SlidingDoor872646F5429EFD0E8D43C98EA0793A58.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/BluePrints/BP_SlidingDoor.uasset'
+[2023.08.04-03.03.49:577][225]AssetCheck: New page: Asset Save: BP_SlidingDoor
+[2023.08.04-03.03.49:577][225]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_SlidingDoor.BP_SlidingDoor
+[2023.08.04-03.03.51:270][415]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.04-03.03.51:280][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-03.03.51:280][415]PIE: New page: PIE session: PrisonBreak (4 Aug 2023, 05:03:51)
+[2023.08.04-03.03.51:301][415]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-03.03.51:376][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075044s)
+[2023.08.04-03.03.51:377][415]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.04-03.03.51:377][415]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2023.08.04-03.03.51:377][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.076191s)
+[2023.08.04-03.03.51:410][415]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2023.08.04-03.03.51:413][415]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.08.04-03.03.51:413][415]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-03.03.51:413][415]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-03.03.51:413][415]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-03.03.51:413][415]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-03.03.51:413][415]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.04-03.03.51:413][415]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.04-03.03.51:413][415]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.04-03.03.51:413][415]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-03.03.51:413][415]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.04-03.03.51:413][415]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.04-03.03.51:417][415]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.04-03.03.51:417][415]LogAudioMixer: Display: 1: FrontRight
+[2023.08.04-03.03.51:424][415]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.04-03.03.51:424][415]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-03.03.51:424][415]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-03.03.51:424][415]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-03.03.51:424][415]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.04-03.03.51:424][415]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.04-03.03.51:424][415]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.04-03.03.51:437][415]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.04-03.03.51:437][415]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.04-03.03.51:437][415]LogInit: FAudioDevice initialized.
+[2023.08.04-03.03.51:437][415]LogAudio: Display: Audio Device (ID: 26) registered with world 'PrisonBreak'.
+[2023.08.04-03.03.51:448][415]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.04-03.03.51:453][415]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.04-04.03.51
+[2023.08.04-03.03.51:454][415]LogWorld: Bringing up level for play took: 0.005089
+[2023.08.04-03.03.51:454][415]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2023.08.04-03.03.51:458][415]PIE: Server logged in
+[2023.08.04-03.03.51:459][415]PIE: Play in editor total start time 0.184 seconds.
+[2023.08.04-03.03.55:794][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-03.03.55:794][925]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-03.03.55:794][925]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-03.03.55:795][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-03.03.55:806][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-03.03.55:817][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-03.03.55:847][925]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-03.03.55:847][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-03.03.55:848][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-03.03.55:862][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-03.03.55:867][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.08.04-03.03.55:907][926]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2023.08.04-03.03.57:514][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.04-03.03.57:548][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.08.04-03.03.57:787][111]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak21C21C3C4BDEC76558ECE88AF6BB8DDC.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap'
+[2023.08.04-03.03.57:804][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak_BuiltData" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset" SILENT=true
+[2023.08.04-03.03.58:039][111]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak_BuiltData783D67C946AA3BA9182BE793FF7ABC25.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset'
+[2023.08.04-03.03.58:057][111]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.04-03.03.58:057][111]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PrisonBreak_BuiltData.PrisonBreak_BuiltData
+[2023.08.04-03.03.58:057][111]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
