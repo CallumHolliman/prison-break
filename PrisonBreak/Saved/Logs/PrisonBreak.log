@@ -6415,3 +6415,29 @@ Script Stack (0 frames):
 [2023.08.04-11.12.28:184][401]LogFileHelpers: Saving map 'PrisonBreak' took 0.327
 [2023.08.04-11.12.28:204][401]AssetCheck: New page: Asset Save: PrisonBreak
 [2023.08.04-11.12.28:204][401]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
+[2023.08.04-11.12.43:921][740]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-11.12.43:921][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-11.12.44:361][783]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-11.12.44:361][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-11.12.44:367][783]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-11.12.44:367][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-11.12.44:831][827]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-11.12.44:831][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-11.12.45:321][874]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.08.04-11.12.45:321][874]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-11.12.45:322][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-11.12.45:691][903]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.08.04-11.12.45:691][903]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-11.12.45:691][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-11.12.50:842][458]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2023.08.04-11.12.55:719][ 31]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.04-11.12.59:618][495]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.04-11.13.03:073][861]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.04-11.13.04:542][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.04-11.13.04:564][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.08.04-11.13.04:851][ 32]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreakFFD4744E4165A761E3263A913B6D3AAA.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap'
+[2023.08.04-11.13.04:869][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak_BuiltData" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset" SILENT=true
+[2023.08.04-11.13.05:106][ 32]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak_BuiltDataC89A1B44409756C9E64FA8A5F4661DDD.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset'
+[2023.08.04-11.13.05:121][ 32]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.04-11.13.05:121][ 32]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PrisonBreak_BuiltData.PrisonBreak_BuiltData
+[2023.08.04-11.13.05:122][ 32]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
