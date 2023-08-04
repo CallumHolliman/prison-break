@@ -4135,3 +4135,147 @@ BP_Button
 [2023.08.04-03.03.58:057][111]AssetCheck: New page: Asset Save: multiple assets
 [2023.08.04-03.03.58:057][111]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PrisonBreak_BuiltData.PrisonBreak_BuiltData
 [2023.08.04-03.03.58:057][111]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
+[2023.08.04-03.37.05:593][523]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2023.08.04-03.37.05:596][523]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/PrisonBreak' took 0.045
+[2023.08.04-03.37.05:596][523]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI_Enemy] ([1] browsable assets)...
+[2023.08.04-03.37.05:596][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI_Enemy]
+[2023.08.04-03.37.05:596][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI_Enemy" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Saved/Autosaves/Game/Enemies/AI_Enemy_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2023.08.04-03.37.05:609][523]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/AI_Enemy_Auto0402716794463E511F30B88A538C0D08E.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/Autosaves/Game/Enemies/AI_Enemy_Auto0.uasset'
+[2023.08.04-03.37.05:611][523]LogFileHelpers: Auto-saving content packages took 0.015
+[2023.08.04-03.42.17:621][552]BlueprintLog: New page: Compile AI_Enemy
+[2023.08.04-03.42.17:683][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.08.04-03.42.18:215][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI_Enemy" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/AI_Enemy.uasset" SILENT=true
+[2023.08.04-03.42.18:232][608]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/AI_EnemyFB4F38D346CDAEFD1BAAE0993CE72312.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/AI_Enemy.uasset'
+[2023.08.04-03.42.18:250][608]AssetCheck: New page: Asset Save: AI_Enemy
+[2023.08.04-03.42.18:250][608]LogContentValidation: Display: Validating Blueprint /Game/Enemies/AI_Enemy.AI_Enemy
+[2023.08.04-03.44.42:126][780]BlueprintLog: New page: Compile AI_Enemy
+[2023.08.04-03.44.42:184][780]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2023.08.04-03.44.42:667][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI_Enemy" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/AI_Enemy.uasset" SILENT=true
+[2023.08.04-03.44.42:684][831]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/AI_Enemy4071AD9948035285B893B48B0E24B1E4.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/AI_Enemy.uasset'
+[2023.08.04-03.44.42:699][831]AssetCheck: New page: Asset Save: AI_Enemy
+[2023.08.04-03.44.42:699][831]LogContentValidation: Display: Validating Blueprint /Game/Enemies/AI_Enemy.AI_Enemy
+[2023.08.04-03.45.42:212][663]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Enemies/BB_Enemy.BB_Enemy
+[2023.08.04-03.45.56:377][497]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.08.04-03.47.11:520][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2023.08.04-03.47.11:522][ 52]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/PrisonBreak' took 0.037
+[2023.08.04-03.47.11:522][ 52]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BB_Enemy] ([1] browsable assets)...
+[2023.08.04-03.47.11:522][ 52]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BB_Enemy]
+[2023.08.04-03.47.11:522][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BB_Enemy" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Saved/Autosaves/Game/Enemies/BB_Enemy_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.04-03.47.11:523][ 52]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BB_Enemy_Auto1805B63544ECAAADEE6239DB4D936F79B.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/Autosaves/Game/Enemies/BB_Enemy_Auto1.uasset'
+[2023.08.04-03.47.11:525][ 52]LogFileHelpers: Auto-saving content packages took 0.003
+[2023.08.04-03.47.19:753][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BB_Enemy" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/BB_Enemy.uasset" SILENT=true
+[2023.08.04-03.47.19:755][299]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BB_EnemyEE61A3F44542BC7EC502A68DC0FAA102.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/BB_Enemy.uasset'
+[2023.08.04-03.47.19:773][299]AssetCheck: New page: Asset Save: BB_Enemy
+[2023.08.04-03.47.19:773][299]LogContentValidation: Display: Validating BlackboardData /Game/Enemies/BB_Enemy.BB_Enemy
+[2023.08.04-03.48.19:519][313]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Enemies/BB_Enemy.BB_Enemy
+[2023.08.04-03.49.06:437][882]LogBehaviorTree: Warning: Blackboard asset (BB_Enemy) has (BB_Enemy) in parent chain! Clearing value to avoid cycle.
+[2023.08.04-03.49.30:751][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BT_Enemy" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/BT_Enemy.uasset" SILENT=true
+[2023.08.04-03.49.30:753][261]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BT_EnemyFCCF17714CAC6C30553D3E9731606E4D.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/BT_Enemy.uasset'
+[2023.08.04-03.49.30:768][261]AssetCheck: New page: Asset Save: BT_Enemy
+[2023.08.04-03.49.30:768][261]LogContentValidation: Display: Validating BehaviorTree /Game/Enemies/BT_Enemy.BT_Enemy
+[2023.08.04-03.50.56:402][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BT_Enemy" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/BT_Enemy.uasset" SILENT=true
+[2023.08.04-03.50.56:404][754]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BT_Enemy70C2ADCE40D19C41A1E2D8AA8EBF5BE0.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/BT_Enemy.uasset'
+[2023.08.04-03.50.56:420][754]AssetCheck: New page: Asset Save: BT_Enemy
+[2023.08.04-03.50.56:421][754]LogContentValidation: Display: Validating BehaviorTree /Game/Enemies/BT_Enemy.BT_Enemy
+[2023.08.04-03.51.17:179][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BT_Enemy" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/BT_Enemy.uasset" SILENT=true
+[2023.08.04-03.51.17:182][714]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BT_Enemy9F9322E64ACE5181E9D6E0B623C466DA.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/BT_Enemy.uasset'
+[2023.08.04-03.51.17:198][714]AssetCheck: New page: Asset Save: BT_Enemy
+[2023.08.04-03.51.17:198][714]LogContentValidation: Display: Validating BehaviorTree /Game/Enemies/BT_Enemy.BT_Enemy
+[2023.08.04-03.52.50:809][471]BlueprintLog: New page: Compile AI_Enemy
+[2023.08.04-03.52.50:865][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2023.08.04-03.52.51:273][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI_Enemy" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/AI_Enemy.uasset" SILENT=true
+[2023.08.04-03.52.51:288][513]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/AI_Enemy427F5F6A414E36D0D01156A17D640602.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/AI_Enemy.uasset'
+[2023.08.04-03.52.51:307][513]AssetCheck: New page: Asset Save: AI_Enemy
+[2023.08.04-03.52.51:307][513]LogContentValidation: Display: Validating Blueprint /Game/Enemies/AI_Enemy.AI_Enemy
+[2023.08.04-03.53.01:107][329]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2023.08.04-03.53.05:796][837]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.04-03.53.11:966][548]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.04-03.53.14:363][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.04-03.53.14:397][774]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2023.08.04-03.53.14:640][774]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreakBD8F793F4A238C17CBED83A9BB0B278C.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap'
+[2023.08.04-03.53.14:658][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak_BuiltData" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset" SILENT=true
+[2023.08.04-03.53.14:891][774]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak_BuiltData2FD41F6746DF81F0432503A5EC2EB0CA.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset'
+[2023.08.04-03.53.14:908][774]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.04-03.53.14:908][774]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PrisonBreak_BuiltData.PrisonBreak_BuiltData
+[2023.08.04-03.53.14:908][774]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
+[2023.08.04-03.53.15:263][816]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.04-03.53.15:273][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-03.53.15:273][816]PIE: New page: PIE session: PrisonBreak (4 Aug 2023, 05:53:15)
+[2023.08.04-03.53.15:273][816]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-03.53.15:350][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076481s)
+[2023.08.04-03.53.15:351][816]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.04-03.53.15:351][816]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2023.08.04-03.53.15:351][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.077739s)
+[2023.08.04-03.53.15:385][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.08.04-03.53.15:385][816]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.08.04-03.53.15:385][816]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-03.53.15:385][816]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-03.53.15:385][816]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-03.53.15:385][816]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-03.53.15:385][816]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.04-03.53.15:386][816]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.04-03.53.15:386][816]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.04-03.53.15:386][816]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-03.53.15:386][816]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.04-03.53.15:386][816]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.04-03.53.15:391][816]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.04-03.53.15:391][816]LogAudioMixer: Display: 1: FrontRight
+[2023.08.04-03.53.15:397][816]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.04-03.53.15:397][816]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-03.53.15:397][816]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-03.53.15:397][816]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-03.53.15:398][816]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.04-03.53.15:398][816]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.04-03.53.15:398][816]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.04-03.53.15:411][816]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.04-03.53.15:411][816]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.04-03.53.15:411][816]LogInit: FAudioDevice initialized.
+[2023.08.04-03.53.15:411][816]LogAudio: Display: Audio Device (ID: 27) registered with world 'PrisonBreak'.
+[2023.08.04-03.53.15:418][816]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.04-03.53.15:423][816]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.04-04.53.15
+[2023.08.04-03.53.15:423][816]LogWorld: Bringing up level for play took: 0.005248
+[2023.08.04-03.53.15:424][816]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2023.08.04-03.53.15:428][816]PIE: Server logged in
+[2023.08.04-03.53.15:429][816]PIE: Play in editor total start time 0.16 seconds.
+[2023.08.04-03.53.32:464][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-03.53.32:464][842]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-03.53.32:465][842]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-03.53.32:465][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-03.53.32:477][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-03.53.32:494][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-03.53.32:532][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-03.53.32:532][842]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-03.53.32:533][842]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-03.53.32:552][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.08.04-03.53.32:592][843]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2023.08.04-03.54.11:762][708]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.08.04-03.55.20:352][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BT_Enemy" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/BT_Enemy.uasset" SILENT=true
+[2023.08.04-03.55.20:355][956]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BT_Enemy17F8CDDB420A455564087381889EFFC7.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/BT_Enemy.uasset'
+[2023.08.04-03.55.20:373][956]AssetCheck: New page: Asset Save: BT_Enemy
+[2023.08.04-03.55.20:373][956]LogContentValidation: Display: Validating BehaviorTree /Game/Enemies/BT_Enemy.BT_Enemy
+[2023.08.04-03.56.06:325][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BT_Enemy" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/BT_Enemy.uasset" SILENT=true
+[2023.08.04-03.56.06:328][573]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BT_Enemy6230F78843FB79AA4F0332919EBB9B49.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/BT_Enemy.uasset'
+[2023.08.04-03.56.06:344][573]AssetCheck: New page: Asset Save: BT_Enemy
+[2023.08.04-03.56.06:344][573]LogContentValidation: Display: Validating BehaviorTree /Game/Enemies/BT_Enemy.BT_Enemy
+[2023.08.04-03.58.27:581][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BT_Enemy" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/BT_Enemy.uasset" SILENT=true
+[2023.08.04-03.58.27:584][800]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BT_Enemy5ACF439E4D122195512A0F8D4A0C1E81.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/BT_Enemy.uasset'
+[2023.08.04-03.58.27:602][800]AssetCheck: New page: Asset Save: BT_Enemy
+[2023.08.04-03.58.27:602][800]LogContentValidation: Display: Validating BehaviorTree /Game/Enemies/BT_Enemy.BT_Enemy
+[2023.08.04-03.58.30:957][191]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.08.04-03.58.30:957][191]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-03.58.30:957][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-03.58.31:561][246]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.08.04-03.58.31:561][246]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-03.58.31:561][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-03.58.36:768][848]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-03.58.36:768][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-03.58.39:115][102]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-03.58.39:115][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-03.58.47:670][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.04-03.58.47:714][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2023.08.04-03.58.47:965][ 68]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreakF40444E640C189E089EB16AE4B6BDB66.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap'
+[2023.08.04-03.58.47:983][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak_BuiltData" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset" SILENT=true
+[2023.08.04-03.58.48:221][ 68]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak_BuiltData179BD2184B2C8C9737A97589D78A8DBF.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak_BuiltData.uasset'
+[2023.08.04-03.58.48:237][ 68]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.04-03.58.48:237][ 68]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PrisonBreak_BuiltData.PrisonBreak_BuiltData
+[2023.08.04-03.58.48:237][ 68]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
