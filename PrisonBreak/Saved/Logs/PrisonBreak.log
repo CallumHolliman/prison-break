@@ -6188,3 +6188,230 @@ BP_Enemy_Random_C.ReceiveBeginPlay
 [2023.08.04-11.03.05:982][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2023.08.04-11.03.05:999][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
 [2023.08.04-11.03.06:018][196]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2023.08.04-11.08.37:522][638]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.08.04-11.08.37:581][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.08.04-11.08.38:066][674]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/FirstPersonCharacter2E57B8CD441FB4BC0C9891893E9CB862.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.08.04-11.08.38:083][674]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.08.04-11.08.38:083][674]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.08.04-11.08.39:197][791]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.04-11.08.39:204][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-11.08.39:204][791]PIE: New page: PIE session: PrisonBreak (4 Aug 2023, 13:08:39)
+[2023.08.04-11.08.39:231][791]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-11.08.39:327][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095265s)
+[2023.08.04-11.08.39:327][791]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.04-11.08.39:328][791]LogPlayLevel: PIE: World Init took: (0.001184s)
+[2023.08.04-11.08.39:328][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.096657s)
+[2023.08.04-11.08.39:354][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.08.04-11.08.39:355][791]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2023.08.04-11.08.39:355][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-11.08.39:355][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-11.08.39:355][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-11.08.39:355][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-11.08.39:355][791]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.04-11.08.39:355][791]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.04-11.08.39:355][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.04-11.08.39:355][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-11.08.39:356][791]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.04-11.08.39:356][791]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.04-11.08.39:360][791]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.04-11.08.39:360][791]LogAudioMixer: Display: 1: FrontRight
+[2023.08.04-11.08.39:367][791]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.04-11.08.39:367][791]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-11.08.39:367][791]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-11.08.39:367][791]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-11.08.39:368][791]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.04-11.08.39:368][791]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.04-11.08.39:368][791]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.04-11.08.39:379][791]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.04-11.08.39:379][791]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.04-11.08.39:379][791]LogInit: FAudioDevice initialized.
+[2023.08.04-11.08.39:379][791]LogAudio: Display: Audio Device (ID: 67) registered with world 'PrisonBreak'.
+[2023.08.04-11.08.39:386][791]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.04-11.08.39:395][791]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.04-12.08.39
+[2023.08.04-11.08.39:398][791]LogWorld: Bringing up level for play took: 0.010852
+[2023.08.04-11.08.39:398][791]LogOnline: OSS: Creating online subsystem instance for: :Context_110
+[2023.08.04-11.08.39:404][791]PIE: Server logged in
+[2023.08.04-11.08.39:404][791]PIE: Play in editor total start time 0.201 seconds.
+[2023.08.04-11.08.43:452][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-11.08.43:452][262]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-11.08.43:453][262]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-11.08.43:454][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-11.08.43:465][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-11.08.43:480][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-11.08.43:503][262]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-11.08.43:504][262]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-11.08.43:504][262]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-11.08.43:517][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-11.08.43:522][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.08.04-11.08.43:558][263]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2023.08.04-11.11.07:526][870]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.08.04-11.11.07:533][870]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.007 s
+[2023.08.04-11.11.07:533][870]LogOutputDevice: Error: === Handled ensure: ===
+[2023.08.04-11.11.07:533][870]LogOutputDevice: Error: 
+[2023.08.04-11.11.07:533][870]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2023.08.04-11.11.07:533][870]LogOutputDevice: Error: The Graph Pin Object has been invalidate. Someone is keeping a hard ref on the SGraphPin. See InvalidateGraphData for more info
+[2023.08.04-11.11.07:533][870]LogOutputDevice: Error: Stack: 
+[2023.08.04-11.11.07:533][870]LogOutputDevice: Error: [Callstack] 0x00007ff97e66d149 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.08.04-11.11.07:533][870]LogOutputDevice: Error: [Callstack] 0x00007ff97e512141 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.08.04-11.11.07:533][870]LogOutputDevice: Error: [Callstack] 0x00007ff97e510db8 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.08.04-11.11.07:533][870]LogOutputDevice: Error: [Callstack] 0x00007ff97e51e88c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.08.04-11.11.07:533][870]LogOutputDevice: Error: [Callstack] 0x00007ff97e596b8c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.08.04-11.11.07:533][870]LogOutputDevice: Error: [Callstack] 0x00007ff97e594089 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98e4afc19 UE4Editor-Slate.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98e4afaa4 UE4Editor-Slate.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98e4b1ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98e4b1ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98e4afaa4 UE4Editor-Slate.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98e4b1ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec7857 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98ddf252a UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98dec7aec UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98e27977e UE4Editor-Slate.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98e2ab93e UE4Editor-Slate.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98e27a0d7 UE4Editor-Slate.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98e2d1e57 UE4Editor-Slate.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff98e2d1659 UE4Editor-Slate.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff69b37ae49 UE4Editor.exe!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff69b39117c UE4Editor.exe!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff69b39125a UE4Editor.exe!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff69b3a52bd UE4Editor.exe!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ff69b3a7fea UE4Editor.exe!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ffa72c926ad KERNEL32.DLL!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: [Callstack] 0x00007ffa7444aa68 ntdll.dll!UnknownFunction []
+[2023.08.04-11.11.07:534][870]LogOutputDevice: Error: 
+[2023.08.04-11.11.07:538][870]LogStats:                SubmitErrorReport -  0.000 s
+[2023.08.04-11.11.09:338][870]LogStats:                    SendNewReport -  1.800 s
+[2023.08.04-11.11.09:338][870]LogStats:             FDebug::EnsureFailed -  1.811 s
+[2023.08.04-11.11.43:461][554]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.08.04-11.11.43:522][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.08.04-11.11.43:936][580]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/FirstPersonCharacterDCB1E48947A14EFAED5929818AA48DFB.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.08.04-11.11.43:953][580]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.08.04-11.11.43:953][580]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.08.04-11.11.44:861][673]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.04-11.11.44:868][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-11.11.44:868][673]PIE: New page: PIE session: PrisonBreak (4 Aug 2023, 13:11:44)
+[2023.08.04-11.11.44:891][673]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-11.11.44:986][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094814s)
+[2023.08.04-11.11.44:987][673]LogAIModule: Creating AISystem for world PrisonBreak
+[2023.08.04-11.11.44:987][673]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2023.08.04-11.11.44:987][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrisonBreak.PrisonBreak to /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak (0.096136s)
+[2023.08.04-11.11.45:012][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.08.04-11.11.45:014][673]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2023.08.04-11.11.45:014][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-11.11.45:014][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-11.11.45:014][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-11.11.45:014][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-11.11.45:014][673]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.04-11.11.45:014][673]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.04-11.11.45:014][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.04-11.11.45:014][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-11.11.45:014][673]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.04-11.11.45:014][673]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.04-11.11.45:018][673]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.04-11.11.45:018][673]LogAudioMixer: Display: 1: FrontRight
+[2023.08.04-11.11.45:026][673]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.08.04-11.11.45:026][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-11.11.45:026][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-11.11.45:026][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-11.11.45:027][673]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.04-11.11.45:027][673]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.04-11.11.45:027][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.04-11.11.45:042][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.04-11.11.45:042][673]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.04-11.11.45:042][673]LogInit: FAudioDevice initialized.
+[2023.08.04-11.11.45:042][673]LogAudio: Display: Audio Device (ID: 68) registered with world 'PrisonBreak'.
+[2023.08.04-11.11.45:053][673]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.08.04-11.11.45:062][673]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrisonBreak.PrisonBreak up for play (max tick rate 0) at 2023.08.04-12.11.45
+[2023.08.04-11.11.45:065][673]LogWorld: Bringing up level for play took: 0.010865
+[2023.08.04-11.11.45:065][673]LogOnline: OSS: Creating online subsystem instance for: :Context_111
+[2023.08.04-11.11.45:070][673]PIE: Server logged in
+[2023.08.04-11.11.45:072][673]PIE: Play in editor total start time 0.205 seconds.
+[2023.08.04-11.11.49:252][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-11.11.49:252][160]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrisonBreak
+[2023.08.04-11.11.49:253][160]LogWorld: UWorld::CleanupWorld for PrisonBreak, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-11.11.49:254][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-11.11.49:265][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-11.11.49:282][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-11.11.49:306][160]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-11.11.49:306][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-11.11.49:307][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.04-11.11.49:320][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-11.11.49:326][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.08.04-11.11.49:365][161]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2023.08.04-11.12.04:670][926]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.08.04-11.12.04:726][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.08.04-11.12.05:306][971]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/FirstPersonCharacter5F3D3E3C444538A4F6A79294E0483EFA.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.08.04-11.12.05:327][971]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.08.04-11.12.05:327][971]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.08.04-11.12.24:669][ 64]BlueprintLog: New page: Compile BP_Enemy_Random
+[2023.08.04-11.12.24:755][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.08.04-11.12.25:420][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_Enemy_Random" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/BP_Enemy_Random.uasset" SILENT=true
+[2023.08.04-11.12.25:446][127]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/BP_Enemy_Random44E663514E0643703C24CAB6BC89DE7D.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Enemies/BP_Enemy_Random.uasset'
+[2023.08.04-11.12.25:459][127]AssetCheck: New page: Asset Save: BP_Enemy_Random
+[2023.08.04-11.12.25:459][127]LogContentValidation: Display: Validating Blueprint /Game/Enemies/BP_Enemy_Random.BP_Enemy_Random
+[2023.08.04-11.12.27:858][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrisonBreak" FILE="../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.04-11.12.27:886][401]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.08.04-11.12.28:167][401]LogSavePackage: Moving '../../../../Unreal Projects/prison-break/PrisonBreak/Saved/PrisonBreak57F5F2D6436141940BB02A8CEC680747.tmp' to '../../../../Unreal Projects/prison-break/PrisonBreak/Content/Maps/PrisonBreak.umap'
+[2023.08.04-11.12.28:184][401]LogFileHelpers: Saving map 'PrisonBreak' took 0.327
+[2023.08.04-11.12.28:204][401]AssetCheck: New page: Asset Save: PrisonBreak
+[2023.08.04-11.12.28:204][401]LogContentValidation: Display: Validating World /Game/Maps/PrisonBreak.PrisonBreak
